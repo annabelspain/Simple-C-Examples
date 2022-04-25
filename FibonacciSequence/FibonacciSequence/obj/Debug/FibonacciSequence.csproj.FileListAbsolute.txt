@@ -1,0 +1,8 @@
+C:\C# Examples\FibonacciSequence\FibonacciSequence\bin\Debug\FibonacciSequence.exe.config
+C:\C# Examples\FibonacciSequence\FibonacciSequence\bin\Debug\FibonacciSequence.exe
+C:\C# Examples\FibonacciSequence\FibonacciSequence\bin\Debug\FibonacciSequence.pdb
+C:\C# Examples\FibonacciSequence\FibonacciSequence\obj\Debug\FibonacciSequence.csproj.AssemblyReference.cache
+C:\C# Examples\FibonacciSequence\FibonacciSequence\obj\Debug\FibonacciSequence.csproj.SuggestedBindingRedirects.cache
+C:\C# Examples\FibonacciSequence\FibonacciSequence\obj\Debug\FibonacciSequence.csproj.CoreCompileInputs.cache
+C:\C# Examples\FibonacciSequence\FibonacciSequence\obj\Debug\FibonacciSequence.exe
+C:\C# Examples\FibonacciSequence\FibonacciSequence\obj\Debug\FibonacciSequence.pdb
