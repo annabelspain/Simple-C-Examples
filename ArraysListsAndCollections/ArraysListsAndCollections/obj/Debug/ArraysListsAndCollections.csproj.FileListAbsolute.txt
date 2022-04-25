@@ -1,0 +1,8 @@
+C:\C# Examples\ArraysListsAndCollections\ArraysListsAndCollections\bin\Debug\ArraysListsAndCollections.exe.config
+C:\C# Examples\ArraysListsAndCollections\ArraysListsAndCollections\bin\Debug\ArraysListsAndCollections.exe
+C:\C# Examples\ArraysListsAndCollections\ArraysListsAndCollections\bin\Debug\ArraysListsAndCollections.pdb
+C:\C# Examples\ArraysListsAndCollections\ArraysListsAndCollections\obj\Debug\ArraysListsAndCollections.csproj.AssemblyReference.cache
+C:\C# Examples\ArraysListsAndCollections\ArraysListsAndCollections\obj\Debug\ArraysListsAndCollections.csproj.SuggestedBindingRedirects.cache
+C:\C# Examples\ArraysListsAndCollections\ArraysListsAndCollections\obj\Debug\ArraysListsAndCollections.csproj.CoreCompileInputs.cache
+C:\C# Examples\ArraysListsAndCollections\ArraysListsAndCollections\obj\Debug\ArraysListsAndCollections.exe
+C:\C# Examples\ArraysListsAndCollections\ArraysListsAndCollections\obj\Debug\ArraysListsAndCollections.pdb
